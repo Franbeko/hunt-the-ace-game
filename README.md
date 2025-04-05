@@ -16,7 +16,7 @@
 
 1. Click the “Start” button to begin the game.
 2. Watch as the cards are shuffled.
-3. Click on the card you believe hides the Ace.
+3. Click on the four card you believe hides the Ace.
 4. Get it right? You win! Otherwise, try again.
 
 ---
